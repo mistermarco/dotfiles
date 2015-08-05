@@ -1,0 +1,13 @@
+Host *.stanford.edu
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+Host *.*
+GSSAPIDelegateCredentials no
+Host *
+GSSAPIDelegateCredentials yes
+GSSAPIAuthentication yes
+
+Host corn corn?? corn.stanford.edu corn??.stanford.edu
+  ControlMaster auto
+  ControlPath ~/.ssh/%r@%h:%p
+  ControlPersist yes
