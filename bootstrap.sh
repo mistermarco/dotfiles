@@ -11,6 +11,9 @@ brew tap caskroom/versions
 # Install Google Chrome
 brew cask install google-chrome
 
+# Install Google Drive
+brew cask install google-drive
+
 # Install Slack
 brew cask install slack
 
@@ -19,6 +22,12 @@ brew cask install taskpaper
 
 # Install Sublime Text 3
 brew cask install sublime-text
+
+# Install Acquia Dev Desktop
+brew cask install acquia-dev-desktop
+
+# Install SuperDuper!
+brew cask install superduper
 
 ## OSX Settings
 
