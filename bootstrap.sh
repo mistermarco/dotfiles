@@ -18,7 +18,7 @@ brew cask install slack
 brew cask install taskpaper
 
 # Install Sublime Text 3
-brew case install sublime-text3
+brew cask install sublime-text
 
 ## OSX Settings
 
