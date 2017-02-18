@@ -29,6 +29,9 @@ brew cask install acquia-dev-desktop
 # Install SuperDuper!
 brew cask install superduper
 
+# Install Sequel Pro
+brew cask install sequel-pro
+
 ## OSX Settings
 
 # Automatically hide and show the Dock
