@@ -32,6 +32,15 @@ brew cask install superduper
 # Install Sequel Pro
 brew cask install sequel-pro
 
+# Install Firefox
+brew cask install firefox
+
+# Install Transmit
+brew cask install transmit
+
+# Install Docker
+brew cask install docker
+
 ## OSX Settings
 
 # Automatically hide and show the Dock
