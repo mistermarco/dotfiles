@@ -41,6 +41,9 @@ brew cask install transmit
 # Install Docker
 brew cask install docker
 
+# Install the AWS Command Line
+brew install awscli
+
 ## OSX Settings
 
 # Automatically hide and show the Dock
