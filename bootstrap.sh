@@ -41,8 +41,11 @@ brew cask install transmit
 # Install Docker
 brew cask install docker
 
-# Install the AWS Command Line
+# Install the Amazon Web Services (AWS) Command Line
 brew install awscli
+
+# Install Drush, the Drupal Shell
+brew install homebrew/php/drush
 
 ## OSX Settings
 
