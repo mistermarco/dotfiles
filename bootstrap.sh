@@ -47,6 +47,9 @@ brew install awscli
 # Install Drush, the Drupal Shell
 brew install homebrew/php/drush
 
+# Install remctl
+brew install remctl
+
 ## OSX Settings
 
 # Automatically hide and show the Dock
