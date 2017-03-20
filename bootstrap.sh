@@ -50,6 +50,9 @@ brew install homebrew/php/drush
 # Install remctl
 brew install remctl
 
+# Install VirtualBox
+brew cask install virtualbox
+
 ## OSX Settings
 
 # Automatically hide and show the Dock
